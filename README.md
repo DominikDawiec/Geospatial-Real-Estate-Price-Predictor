@@ -1,4 +1,4 @@
-# Geospatial-Real-Estate-Price-Predictor
+# Geospatial Real Estate Price Predictor
 
 # Work in progress 
 
